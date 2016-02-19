@@ -13,7 +13,6 @@ setup(
                    and is fully compatible with existing code based on Django's
                    core 
                    pagination module. (aka no need to rewrite code!)''',
-    long_description=README,
     license='BSD',
     packages=find_packages(),
     include_package_data=True,
